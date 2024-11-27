@@ -41,11 +41,11 @@ This project aims to predict horse racing outcomes using machine learning techni
 
 # Modelling Approach:
 **Model Selection:**
-  * Evaluate various machine learning models (e.g.,Regression, Random Forest, Gradient Boosting, Neural Networks).
+  * Evaluate various machine learning models (e.g.,Logistic Regression, Random Forest, Gradient Boosting).
   * Use cross-validation to assess model performance
 
 **Handling Imbalanced Data:**
-  * Use techniques such as SMOTE (Synthetic Minority Over-sampling Technique), under-sampling, and class weight adjustments.
+  * Use techniques such as SMOTE (Synthetic Minority Over-sampling Technique), ROS(Ramndom Over Sampling)
 
 **Hyperparameter Tuning:**
   * Grid search and random search for optimal hyperparameters.
