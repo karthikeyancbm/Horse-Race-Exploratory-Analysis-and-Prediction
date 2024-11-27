@@ -18,3 +18,12 @@ This project aims to predict horse racing outcomes using machine learning techni
     * Handle missing values.
     * Normalize data where necessary (e.g., times, distances)
     * Convert categorical variables to numerical representations
+
+  # Feature Engineering:
+
+     * Create new features based on existing data
+     * Aggregate features across multiple races to capture trends
+
+  # Data Integration:
+
+    * Merge race and horse datasets on rid to create a comprehensive dataset for analysis.
