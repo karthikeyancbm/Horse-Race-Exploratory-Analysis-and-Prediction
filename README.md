@@ -26,4 +26,15 @@ This project aims to predict horse racing outcomes using machine learning techni
         
 # Data Integration:
   * Merge race and horse datasets on rid to create a comprehensive dataset for analysis.
+
+# Exploratory Data Analysis:
+**Descriptive Statistics:**
+  * Summary statistics of key features
+  * Distribution plots of continuous variables.
+**Correlation Analysis:**
+  * Correlation matrix to identify relationships between features.
+**Visualization:**
+  * Bar plots, histograms, and box plots to visualize data distribution
+  * Heatmaps for correlation visualization.
+
     
