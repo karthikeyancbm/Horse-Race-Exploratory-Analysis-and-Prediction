@@ -7,10 +7,11 @@ This project aims to predict horse racing outcomes using machine learning techni
 **Primary goal** : To predict the outcome of horse races (e.g., win or place).
 
 **Secondary goals**:
-       * To identify significant features affecting race outcomes.
-       * To do Exploratory analysis
-       * To explore the imbalanced nature of the dataset and develop techniques to handle it.
-       * To create a robust prediction model using historical data.
+
+ * To identify significant features affecting race outcomes.
+ * To do Exploratory analysis
+ * To explore the imbalanced nature of the dataset and develop techniques to handle it.
+ * To create a robust prediction model using historical data.       
 
 # Data Preprocessing:
 
