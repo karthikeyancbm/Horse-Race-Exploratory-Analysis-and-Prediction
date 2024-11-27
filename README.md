@@ -10,3 +10,11 @@ This project aims to predict horse racing outcomes using machine learning techni
        * To do Exploratory analysis
        * To explore the imbalanced nature of the dataset and develop techniques to handle it.
        * To create a robust prediction model using historical data.
+
+# Data Preprocessing:
+
+  # Data Cleaning:
+
+    * Handle missing values.
+    * Normalize data where necessary (e.g., times, distances)
+    * Convert categorical variables to numerical representations
