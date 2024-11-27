@@ -15,7 +15,7 @@ This project aims to predict horse racing outcomes using machine learning techni
 
 # Data Preprocessing:
 
-  * Data Cleaning:
+**Data Cleaning:**
 
     * Handle missing values.
     * Normalize data where necessary (e.g., times, distances)
